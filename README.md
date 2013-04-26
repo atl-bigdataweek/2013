@@ -18,7 +18,7 @@ You are free to manage your team however you see fit, but I'd encourage each tea
 
 Entries for the global competition must be submitted by 15:00 GMT / 10:00 AM local time. See the [submission details](http://bigdataweek.com/bigdatachallenge/).
 
-The Atlanta local competition will be open until 8PM, so teams can continue to polish their work and compete for ... Judging critera for both competitions will be the same.
+The Atlanta local competition will be open until 8PM, so teams can continue to polish their work and compete for $PRIZES. Judging critera for both competitions will be the same.
 
 ### Contact
 
@@ -26,7 +26,7 @@ If there are any problems, contact
 
     James Dabbs
     jamesdabbs@gmail.com
-    401.402.4836
+    401.402.4836 (please call responsibly)
 
 ## Data sets
 
@@ -44,11 +44,6 @@ This is the data set provided by the organizers of the global Big Data Challenge
     password:      leeds2013
     database name: bigdataweek
 
-#### S3 sample
+#### SQL dump
 
-[This sample]() contains the table structure and a few sample rows from each table, suitable for
-exploring and prototyping.
-
-#### S3 full
-
-[The full 6.4GB mysql dump](https://s3.amazonaws.com/atl-bigdataweek/bigdataweek_2013-04-26.sql) is available as well.
+The full 6.4GB mysql dump is available on [S3](https://s3.amazonaws.com/atl-bigdataweek/bigdataweek_2013-04-26.sql) as well.
