@@ -6,7 +6,7 @@ General information about the global challenge is up on the [Big Data Week site]
 
 ## Logistics
 
-The hackathon will run from noon on Saturday to 8PM on Sunday, though teams are free to come and go (and work remotely) as they see fit. Note that access to the Biltmore is restricted, so if you intend to use Hypepotamus as a workspace overnight, you will need to call someone inside to be let in.
+The hackathon will run from noon on Saturday to 8PM on Sunday, though teams are free to come and go (and work remotely) as they see fit. The Biltmore will be locked over the weekend, so you will need someone on your team or on staff to let you in. Please use the West Peachtree entrance; we will be keeping it open around the start of the event.
 
 We'll be providing pizza, snacks and refreshments throughout the event.
 
@@ -24,9 +24,17 @@ The Atlanta local competition will be open until 8PM, so teams can continue to p
 
 If there are any problems, contact
 
+    Maria Stephens
+    maria.stephens@me.com
+    770.910.2184
+    
+or
+
     James Dabbs
     jamesdabbs@gmail.com
-    401.402.4836 (please call responsibly)
+    401.402.4836 
+    
+Please call responsibly.
 
 ## Data sets
 
