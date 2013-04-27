@@ -55,3 +55,7 @@ This is the data set provided by the organizers of the global Big Data Challenge
 #### SQL dump
 
 The full 6.4GB mysql dump is available on [S3](https://s3.amazonaws.com/atl-bigdataweek/bigdataweek_2013-04-26.sql) as well.
+
+### Open Atlanta
+
+Open Atlanta has [a few data sets](http://data.openatlanta.net/dataset) available. Particularly relevant might be the [Civic Health Data](http://data.openatlanta.net/dataset/civic-health-data) set.
