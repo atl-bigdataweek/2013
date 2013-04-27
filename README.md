@@ -40,11 +40,11 @@ Please call responsibly.
 
 Feel free to contribute new sets to this repo or use your own data sets. If not, try:
 
-### Leeds
+## Leeds
 
 This is the data set provided by the organizers of the global Big Data Challenge. It contains comprehensive statistics about a range of public health concerns, including medical, fire, police, school, and traffic records. I'd encourage you to connect and poke around the table schema to see what all is available.
 
-#### Direct database access
+### Direct database access
 
     host:          37.48.241.30
     port:          3306 (the default)
@@ -52,10 +52,10 @@ This is the data set provided by the organizers of the global Big Data Challenge
     password:      leeds2013
     database name: bigdataweek
 
-#### SQL dump
+### SQL dump
 
 The full 6.4GB mysql dump is available on [S3](https://s3.amazonaws.com/atl-bigdataweek/bigdataweek_2013-04-26.sql) as well.
 
-### Open Atlanta
+## Open Atlanta
 
 Open Atlanta has [a few data sets](http://data.openatlanta.net/dataset) available. Particularly relevant might be the [Civic Health Data](http://data.openatlanta.net/dataset/civic-health-data) set.
